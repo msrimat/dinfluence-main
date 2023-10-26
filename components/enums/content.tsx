@@ -1,0 +1,7 @@
+export enum contentType {
+  CATEGORIES,
+  EXPERIENCES_SMALL,
+  EXPERIENCES_MEDIUM,
+  CREATORS,
+  REVIEWS,
+}
